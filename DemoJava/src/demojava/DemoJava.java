@@ -11,6 +11,10 @@ package demojava;
  * @author srimca
  */
 public class DemoJava {
+    
+    String number;
+    int valor;
+    
 
     /**
      * @param args the command line arguments
@@ -18,5 +22,9 @@ public class DemoJava {
     public static void main(String[] args) {
         // TODO code application logic here
     }
+    public String getNumber(){
+        return number;
+    }
+    
     
 }
