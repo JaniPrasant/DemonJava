@@ -25,6 +25,9 @@ public class DemoJava {
     public String getNumber(){
         return number;
     }
+    public int getValor(){
+        return valor;
+    }
     
     
 }
